@@ -22,3 +22,16 @@ A data science project to predict Formula 1 race outcomes using FastF1 API and m
   - Speed trap data (SpeedI1, SpeedI2, SpeedFL, SpeedST)
   - Track conditions and driver performance indicators
 
+
+### Day 2: Advanced Data Processing & Analysis Framework
+### Accomplished Today:
+
+- Enhanced the data extraction process with derived performance metrics
+- Added conversion of lap and sector times to seconds for easier numerical analysis
+- Implemented performance consistency tracking across drivers and laps
+- Developed functions for in-depth race analysis:
+
+- get_telemetry_for_lap(): Extracts detailed car telemetry data
+- analyze_fastest_laps(): Compares peak performance across drivers
+- compare_drivers(): Direct head-to-head driver performance comparison
+- analyze_tire_performance(): Evaluates compound effectiveness and degradation rates
