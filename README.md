@@ -33,7 +33,7 @@ A data science project to predict Formula 1 race outcomes using FastF1 API and m
 - Implemented performance consistency tracking across drivers and laps
 - Developed functions for in-depth race analysis:
 
-- get_telemetry_for_lap(): Extracts detailed car telemetry data
-- analyze_fastest_laps(): Compares peak performance across drivers
-- compare_drivers(): Direct head-to-head driver performance comparison
-- analyze_tire_performance(): Evaluates compound effectiveness and degradation rates
+  -   get_telemetry_for_lap(): Extracts detailed car telemetry data
+  -   analyze_fastest_laps(): Compares peak performance across drivers
+  -   compare_drivers(): Direct head-to-head driver performance comparison
+  -   analyze_tire_performance(): Evaluates compound effectiveness and degradation rates
