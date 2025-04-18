@@ -22,6 +22,3 @@ A data science project to predict Formula 1 race outcomes using FastF1 API and m
   - Speed trap data (SpeedI1, SpeedI2, SpeedFL, SpeedST)
   - Track conditions and driver performance indicators
 
-### Code Snapshot:
-![image](https://github.com/user-attachments/assets/a92bc326-66eb-42f3-bc39-c9bb12e4800d)
-
