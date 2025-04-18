@@ -24,6 +24,8 @@ A data science project to predict Formula 1 race outcomes using FastF1 API and m
 
 
 ### Day 2: Advanced Data Processing & Analysis Framework
+
+
 ### Accomplished Today:
 
 - Enhanced the data extraction process with derived performance metrics
